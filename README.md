@@ -14,3 +14,5 @@ cloneした後Unity2021.1.3f1で起動してください。
 * VContainer
 
 MessagePipeTestXXXフォルダにTestSceneXXXが含まれています。
+
+学習用なのでライセンスフリーです。
